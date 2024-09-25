@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Green
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-  m_Parent: {fileID: 2100000, guid: 82775d3e305a21644a0f0bd44b3dd7b5, type: 2}
+  m_Parent: {fileID: 2100000, guid: 78bab0af0b2a1d94ea1a5defa4665876, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
