@@ -6,10 +6,10 @@ using TMPro;
 public class AnketaScript : MonoBehaviour
 {
     public TMP_InputField nameInputField;
-    public TMP_Text nameText;
-   
-    public void OnButtonUserName()
+    public TMP_Text nameTmpText;
+
+    public void OnButtonUserName() 
     {
-        nameText.text = nameInputField.text;
+        nameTmpText.text = nameInputField.text;
     }
 }
