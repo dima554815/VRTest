@@ -9,8 +9,6 @@ public class CalculatorScript : MonoBehaviour
    [SerializeField] private TMP_InputField inputField2;
    [SerializeField] private TMP_Text outputText;
 
-    // [SerializeField] private float valuet;
-
     private float ReadFloatFromInputField(TMP_InputField inputField) {
         string str = inputField.text;
         if (str != null && str.Length >0) {
